@@ -44,7 +44,7 @@ app.on('activate', () => {
 });
 
 // Set this to your Client ID.
-const clientId = '280984871685062656';
+const clientId = '778428586192797696';
 
 // Only needed if you want to use spectate, join, or ask to join
 DiscordRPC.register(clientId);
